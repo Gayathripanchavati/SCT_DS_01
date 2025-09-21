@@ -11,10 +11,9 @@ The World Population Dashboard is an interactive data visualization project buil
 📈 Population trends by country (line charts)
 
 🏆 Top 10 most populated countries (bar charts)
-
 🗺 World population distribution (choropleth map)
+<img width="809" height="529" alt="image" src="https://github.com/user-attachments/assets/1b8de13c-bc86-40e3-9863-11c95d272846" />
 
-🎚 Year slider & country filter for interactivity
 
 📂 Dataset
 
@@ -54,12 +53,17 @@ Open the generated public URL to access the dashboard.
 📷 Sample Visuals
 
 Population Trend of India (2000–2020)
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/5ba17fef-ab77-4dd0-a7af-b26a4c7742fd" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/2d33cfda-3153-4ec8-9e9c-9cbae5d39553" />
 
 Top 10 Most Populated Countries (Latest Year)
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/3aa09d0b-9d03-42a2-9cf4-d91f3efcce34" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/ab03da7c-ba46-4687-b859-a223660ce695" />
 
 World Population Map
 
-(Add screenshots here once you run the dashboard)
+![Screenshot_21-9-2025_145810_colab research google com](https://github.com/user-attachments/assets/10f67e7d-e1eb-474f-950e-caddbe52b844)
+<img width="797" height="525" alt="image" src="https://github.com/user-attachments/assets/75d523cd-89eb-402e-a3c6-cda8b86cb42c" />
 
 🔮 Future Enhancements
 
