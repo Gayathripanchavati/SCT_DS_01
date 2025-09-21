@@ -9,9 +9,9 @@ The World Population Dashboard is an interactive data visualization project buil
 📊 Features
 
 📈 Population trends by country (line charts)
-
 🏆 Top 10 most populated countries (bar charts)
 🗺 World population distribution (choropleth map)
+
 <img width="809" height="529" alt="image" src="https://github.com/user-attachments/assets/1b8de13c-bc86-40e3-9863-11c95d272846" />
 
 
@@ -57,8 +57,8 @@ Population Trend of India
 <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/2d33cfda-3153-4ec8-9e9c-9cbae5d39553" />
 
 Top 10 Most Populated Countries (Latest Year)
-<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/3aa09d0b-9d03-42a2-9cf4-d91f3efcce34" />
-<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/ab03da7c-ba46-4687-b859-a223660ce695" />
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/3f7b44ea-851e-4c8f-8133-7232552e9a7a" />
+<img width="1190" height="690" alt="image" src="https://github.com/user-attachments/assets/90168374-1ccf-4fd9-98c7-576388bbbf5b" />
 
 World Population Map
 
