@@ -52,7 +52,7 @@ Open the generated public URL to access the dashboard.
 
 📷 Sample Visuals
 
-Population Trend of India (2000–2020)
+Population Trend of India 
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/5ba17fef-ab77-4dd0-a7af-b26a4c7742fd" />
 <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/2d33cfda-3153-4ec8-9e9c-9cbae5d39553" />
 
